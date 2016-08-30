@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Vijnan</string>
+	<string name="action_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="ib1">General instructions</string>
+	<string name="b2">Events</string>
+	<string name="b3">Sponsers</string>
+	<string name="b4">About app developers</string>
+	<string name="b5">Fun</string>
+	<string name="gi1">Vijñàñ</string>
+	<string name="gi2">GENERAL INFORMATION</string>
+	<string name="gi3">* Entry fee is Rs.200 per college for any number of events. </string>
+	<string name="gi4">* Last date to enroll is 3rd March 2015</string>
+	<string name="gi5">* All participants are requested to report at the college at 8:30 am on 9th March 2015. Please note, College ID card is mandatory for all the events.	</string>
+	<string name="gi6">* For individual events two students	can participate from each college.	</string>
+	<string name="gi7">* For group events two teams can	participate from a college.	</string>
+	<string name="gi8">* Students from a college can	participate in any number of	events.	</string>
+	<string name="gi9">* Students are requested to manage	their schedule without clashing		between the two events.	</string>
+	<string name="gi10">* Lecture competation is of 8 minutes	with 2 minutes of questioning.	</string>
+	<string name="gi11">* Topic for the event	POSTER MAKING shall be	announced one hour before the	event.	</string>
+	<string name="e1">ELECTRONICS</string>
+	<string name="e2">PHYSICS</string>
+	<string name="e3">MATHS and STAs</string>
+	<string name="e4">COMPUTER SCIENCE</string>
+	<string name="e5">GENERAL SCIENCE EVENTS</string>
+	<string name="e6">BOTANY AND MICROBIOLOGY</string>
+	<string name="e7">ZOOLOGY</string>
+	<string name="e8">BIOCHEMISTRY</string>
+	<string name="e9">GENETICS</string>
+	<string name="e10">BIOTECHNOLOGY</string>
+	<string name="el1">CROSSWORD </string>
+	<string name="el2">QUIZ </string>
+	<string name="el3">DUMB CHARADES </string>
+	<string name="el4">CIRCUIT ANALYSIS </string>
+	<string name="el5">LECTURE </string>
+	<string name="el6">ELECTROFUSION</string>
+	<string name="el7">ELECTRONICS EXHIBITION  </string>
+	<string name="cs1">WEB DESIGNING </string>
+	<string name="cs2">DEBUGGING </string>
+	<string name="cs3">CODING </string>
+	<string name="cs4">IT MANAGERS </string>
+	<string name="d">Details  </string>
+	<string name="g1">Group of 2 students</string>
+	<string name="g2">09/03/2015  at 11 am </string>
+	<string name="g3">Venue: LH107 and LH108 </string>
+
+	  <string name="eq1"> Group of 3 students  </string>
+	  <string name="eq2">09/03/2015 at 12 noon  </string>
+	  <string name="eq3">Venue: LH107 and LH108  </string>
+	  <string name="eq4">FINALS on  </string>
+	  <string name="eq5">10/03/2015 at 12 noon  </string>
+	  <string name="eq6">Venue: Indoor Audi  </string>
+	  
+	  <string name="eq9">09/03/2015 at 12:30 noon  </string>
+	    <string name="eq10">Venue: LH110  </string>
+	    
+	    <string name="eq12">09/03/2015  at 2 pm </string>
+	    <string name="eq13">Venue: Electronins Lab</string>
+	    <string name="eq14"> Contact Nagendra prasad</string>
+	    <string name="eq15">Individual Event</string>
+	    <string name="eq16">09/03/2015  at 3 pm </string>
+	 <string name="eq17">Venue: LH204  </string>
+	  <string name="q1">10/03/2015 at 10 am  </string>
+	  <string name="q2">Venue: LH112  </string>
+	  <string name="q3">Contact Yashaswini </string>
+	  <string name="q4">10/03/2015 at 10 am </string>
+	  <string name="q5">Venue: Open audi </string>
+	  <string name="q6">Contact Adarsh </string>
+	  <string name="q7">For details Contact Suresh.T</string>
+	  <string name="q8">For details Contact Thyagaraju.G</string>
+	   <string name="q9">For details Contact kavya.R</string>
+	   <string name="q10">For details Contact Sarojamma.P.R</string>
+	   <string name="q11">For details Contact Madhushree</string>
+	   <string name="q12">For details Contact Niveditha</string>
+	  <string name="eq11">For details Contact Karthik  </string>
+	  <string name="eq7">For details Contact Vinod  </string>
+	  <string name="eq8">For details Contact Vishnu  </string>
+	  <string name="g4">For details Contact Nagurjan</string>
+	  <string name="m1">JAM</string>
+	  <string name="m2">COLLAGE</string>
+	  <string name="m3">TREASURE HUNT</string>
+	 <string name="m4">For details Contact Srikanth</string>
+	 <string name="m5">SCIENCE MODEL MAKING</string>
+	 <string name="m6">PICK AND SPEAK</string>
+<string name="m7">For details Contact Chaitra</string>
+<string name="m8">For details Contact Supriya</string>
+<string name="m9">For details Contact Gautham</string>
+<string name="m10">POSTER MAKING</string>
+<string name="m11">For details Contact Nagarjun.V</string>
+<string name="m12">For details Contact sangamesha.K</string>
+<string name="m13">EXHIBITION </string>
+<string name="m14">For details Contact Aishwarya</string>
+<string name="m15">For details Contact Sahana.S</string>
+<string name="m16">For details Contact Narayana</string>
+<string name="m17">BY THE MAKERS OF CHARGE</string>
+<string name="m18">ELECTRONICS STUDENTS</string>
+<string name="m19">Kgsoftwaremechanics</string>
+
+
+
+</resources>

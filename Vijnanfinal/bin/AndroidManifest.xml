@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.KGcodings.vijnan"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="19" />
+ <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        
+         >
+        <activity
+            android:name="com.KGcodings.vijnan.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="standard" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Second"/>
+          <activity android:name=".Third"/>
+                <activity android:name=".Fourth"/>
+               <activity android:name=".Fifth"/>
+              <activity android:name=".Sixth"/>
+               <activity android:name=".E1"/>
+          <activity android:name=".E2"/>
+          <activity android:name=".E3"/>
+          <activity android:name=".E4"/>
+          <activity android:name=".E5"/>
+          <activity android:name=".E6"/>
+          <activity android:name=".E7"/>
+          <activity android:name=".E8"/>
+          <activity android:name=".E9"/>
+          <activity android:name=".E10"/>
+           <activity android:name=".El1"/>
+          <activity android:name=".El2"/>
+          <activity android:name=".El3"/>
+          <activity android:name=".El4"/>
+          <activity android:name=".El5"/>
+          <activity android:name=".El6"/>
+          <activity android:name=".El7"/>
+           <activity android:name=".P1"/>
+          <activity android:name=".P2"/>
+          <activity android:name=".P3"/>
+          <activity android:name=".P4"/>
+            <activity android:name=".M1"/>
+              <activity android:name=".M2"/>
+               <activity android:name=".Cs1"/>
+               <activity android:name=".Cs2"/>
+               <activity android:name=".Cs3"/>
+               <activity android:name=".Cs4"/>
+               <activity android:name=".Cs5"/>
+               <activity android:name=".Cs6"/>
+               <activity android:name=".Bt1"/>
+               <activity android:name=".Bt2"/>
+               <activity android:name=".Bc1"/>
+               <activity android:name=".Bc2"/>
+               <activity android:name=".Bt3"/>
+               <activity android:name=".Bt4"/>
+                <activity android:name=".G1"/>
+          <activity android:name=".G2"/>
+           <activity android:name=".Z1"/>
+          <activity android:name=".Z2"/>
+           <activity android:name=".Bm1"/>
+               <activity android:name=".Bm2"/>
+          
+          
+          
+          
+    </application>
+
+</manifest>

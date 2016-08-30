@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rel"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center" >
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background"
+        android:fillViewport="true"
+        tools:ignore="UselessParent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+    
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3dp"
+                android:layout_marginTop="10dp"
+                android:background="#00000000" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="27sp"
+                android:layout_marginTop="20sp"
+                android:text="@string/b4"
+                android:textColor="#FCCA03"
+                android:textSize="50sp" />
+
+              <View
+                android:layout_width="fill_parent"
+                android:layout_height="3dp"
+                android:layout_marginTop="25dp"
+                android:background="#00000000" />
+               <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="25dp"
+                android:background="#00000000"/>
+
+			    	<TextView
+			    	    android:id="@+id/textView3"
+			    	    android:layout_width="wrap_content"
+			    	    android:layout_height="wrap_content"
+			    	    android:layout_gravity="center"
+			    	    android:layout_marginLeft="20sp"
+			    	    android:text="@string/m17"
+			    	    android:textAppearance="?android:attr/textAppearanceLarge"
+			    	    android:textColor="#FCFCFC"
+			    	    android:textSize="24sp" />
+
+			    	 <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="25dp"
+                android:background="#00000000"/>
+			    	<TextView
+			    android:id="@+id/textView4"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center"
+			    android:text="@string/m18"
+			    android:textAppearance="?android:attr/textAppearanceLarge"
+			    android:textColor="#FCFCFC"
+			    android:textSize="24sp" />
+              
+              
+                    
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

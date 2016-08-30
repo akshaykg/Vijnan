@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rel"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center" >
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background"
+        android:fillViewport="true"
+        tools:ignore="UselessParent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+                <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="15sp"
+                android:background="#00000000"/>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/cooltext1944138684" />
+              <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="15sp"
+                android:background="#00000000"/>
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/cooltext1944448093" />
+              <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="10sp"
+                android:background="#00000000"/>
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/s1" />
+              <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="5sp"
+                android:background="#00000000"/>
+                  
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
