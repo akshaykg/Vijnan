@@ -1,0 +1,37 @@
+ {
+      "tagName": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Tag Name",
+          "description": "Name of the tag, such as 'environment'"
+        }
+      },
+      "env": {
+        "type": "String",
+        "metadata": {
+          "displayName": "env",
+          "description": "Name of the tag, such as 'environment'"
+        }
+      },
+      "clean": {
+        "type": "String",
+        "metadata": {
+          "displayName": "clean",
+          "description": "Name of the tag, such as 'environment'"
+        }
+      },
+      "appid": {
+        "type": "String",
+        "metadata": {
+          "displayName": "appid",
+          "description": "Name of the tag, such as 'environment'"
+        }
+      },
+      "owner": {
+        "type": "String",
+        "metadata": {
+          "displayName": "owner",
+          "description": "Name of the tag, such as 'environment'"
+        }
+      }
+    }
