@@ -1,0 +1,32 @@
+ {
+      "if": {
+        "allOf": [
+            {
+          "field": "[concat('tags[', parameters('tagName'), ']')]",
+          "exists": "false"
+        },
+        {
+              "field": "[concat('tags[',parameters('env'), ']')]",
+              "exists": "false"
+            },
+        {
+              "field": "[concat('tags[',parameters('clean'), ']')]",
+              "exists": "false"
+            },
+         {
+              "field": "[concat('tags[',parameters('owner'), ']')]",
+              "exists": "false"
+            }
+        ,
+        {
+              "field": "[concat('tags[',parameters('appid'), ']')]",
+              "exists": "false"
+            }
+        
+    ]
+      },
+      "then": {
+        "effect": "deny"
+      }
+    
+    }
